@@ -1,0 +1,39 @@
+fcitx5-kkc (5.0.8-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Tue, 26 Apr 2022 10:22:50 +0800
+
+fcitx5-kkc (5.0.8-1) unstable; urgency=medium
+
+  * New upstream release. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 16 Mar 2022 11:43:13 -0400
+
+fcitx5-kkc (5.0.7-1) unstable; urgency=medium
+
+  * New upstream release. 
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 06 Feb 2022 17:32:48 -0500
+
+fcitx5-kkc (5.0.6-2) unstable; urgency=high
+
+  * debian/control: Make binary package conflicts with fcitx-kkc.
+    They both provides the same files and upstream has no intent
+    of allowing them installed together (due to icon theme issues).
+    (Closes: #998725)
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 07 Nov 2021 13:20:22 -0500
+
+fcitx5-kkc (5.0.6-1) unstable; urgency=medium
+
+  * New upstream release 5.0.6.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 06 Nov 2021 15:05:51 -0400
+
+fcitx5-kkc (5.0.5-1) unstable; urgency=medium
+
+  * Initial release.
+  * debian/copyright: Update copyright holder on src/kkc.* files.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 06 Nov 2021 10:15:46 -0400

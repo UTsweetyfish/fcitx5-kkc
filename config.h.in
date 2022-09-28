@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2013~2017 CSSlayer <wengxt@gmail.com>
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ *
+ */
+#ifndef _FCITX5_KKC_CONFIG_H_IN_
+#define _FCITX5_KKC_CONFIG_H_IN_
+
+#define SKK_DEFAULT_PATH "@SKK_DEFAULT_PATH@"
+
+#endif // _FCITX5_KKC_CONFIG_H_IN_
